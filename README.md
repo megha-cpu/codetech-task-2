@@ -117,3 +117,7 @@ cd-2.ipynb: The main Jupyter notebook containing preprocessing, model implementa
 cd-2pic1.jpg,cd-2pic2.jpg: A screenshot showing the evaluation metrics output.
 
 **OUTPUT:**
+
+![Image](https://github.com/user-attachments/assets/136b5cf2-3ebc-415d-8e22-eabaf5f2d863)
+
+![Image](https://github.com/user-attachments/assets/8d35c786-4f7f-40ed-bc74-e98433002b65)
